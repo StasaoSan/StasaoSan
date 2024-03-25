@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Alexander
 
+Second year student of ITMO, Information Structure and Technologies
+
+[![StasaoSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasaoSan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **StasaoSan/StasaoSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
