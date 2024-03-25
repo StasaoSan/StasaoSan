@@ -1,14 +1,28 @@
-### Hi there! I'm Alexander
+### Hi there, I'm Alexander! 👋
 
-Second year student of ITMO, Information Structure and Technologies
+I'm a second-year student at ITMO University, majoring in Information Structures and Technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasaoSan&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![StasaoSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasaoSan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+#### 📊 My GitHub Stats:
 
-My interested project: (like for me)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CSharp5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasaoSan&theme=radical&langs_count=8)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CubicRubics&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=workWithOscilographLSF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![StasaoSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasaoSan&show_icons=true&theme=radical)
+
+</td>
+</tr>
+</table>
+
+#### 💡 Interesting Projects:
+
+[![CSharp5](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CSharp5&theme=radical)](https://github.com/StasaoSan/CSharp5)
+
+[![CubicRubics](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CubicRubics&theme=radical)](https://github.com/StasaoSan/CubicRubics)
+
+[![workWithOscilographLSF](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=workWithOscilographLSF&theme=radical)](https://github.com/StasaoSan/workWithOscilographLSF)
