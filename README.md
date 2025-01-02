@@ -21,6 +21,7 @@ I'm a second-year student at ITMO University, majoring in Information Structures
 
 #### 💡 Interesting Projects:
 
+[![ML_Linear_methods](https://github.com/StasaoSan/ML_Linear_methods)]
 [![CSharp5](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CSharp5&theme=radical)](https://github.com/StasaoSan/CSharp5)
 
 [![CubicRubics](https://github-readme-stats.vercel.app/api/pin/?username=StasaoSan&repo=CubicRubics&theme=radical)](https://github.com/StasaoSan/CubicRubics)
